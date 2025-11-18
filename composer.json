@@ -1,0 +1,16 @@
+{
+    "name": "auxrh/pretecor",
+    "autoload": {
+        "psr-4": {
+            "Auxrh\\Pretecor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yerson"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.2"
+    }
+}
